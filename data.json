@@ -1,0 +1,89 @@
+{
+    "hablar": {
+        "Present Indicative": [
+            "hablo",
+            "hablas",
+            "habla",
+            "hablamos",
+            "hablan"
+        ],
+        "Preterite Indicative": [
+            "hablé",
+            "hablaste",
+            "habló",
+            "hablamos",
+            "hablaron"
+        ],
+        "Present Subjunctive": [
+            "hable",
+            "hables",
+            "hable",
+            "hablemos",
+            "hablen"
+        ],
+        "Imperative": [
+            "habla",
+            "hable",
+            "hablemos",
+            "hablen"
+        ]
+    },
+    "comer": {
+        "Present Indicative": [
+            "como",
+            "comes",
+            "come",
+            "comemos",
+            "comen"
+        ],
+        "Preterite Indicative": [
+            "comí",
+            "comiste",
+            "comió",
+            "comimos",
+            "comieron"
+        ],
+        "Present Subjunctive": [
+            "coma",
+            "comas",
+            "coma",
+            "comamos",
+            "coman"
+        ],
+        "Imperative": [
+            "come",
+            "coma",
+            "comamos",
+            "coman"
+        ]
+    },
+    "vivir": {
+        "Present Indicative": [
+            "vivo",
+            "vives",
+            "vive",
+            "vivimos",
+            "viven"
+        ],
+        "Preterite Indicative": [
+            "viví",
+            "viviste",
+            "vivió",
+            "vivimos",
+            "vivieron"
+        ],
+        "Present Subjunctive": [
+            "viva",
+            "vivas",
+            "viva",
+            "vivamos",
+            "vivan"
+        ],
+        "Imperative": [
+            "vive",
+            "viva",
+            "vivamos",
+            "vivan"
+        ]
+    }
+}
